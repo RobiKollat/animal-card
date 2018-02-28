@@ -1,0 +1,63 @@
+body {
+	
+}
+
+.card {
+	height: 100%;
+	width: 350px;
+	box-shadow: 10px 10px 10px 0px; color: orange;
+	border: 5px solid #663333;
+	border-radius: 0px 0px 18px 0px;
+	padding: 3px 20px 20px;
+	background-color: #b3ecff;
+
+
+}
+
+* {
+box-sizing:border-box;
+}
+
+h3 {
+	color: black;
+	font-size: 25px;
+}
+
+img {
+	padding-bottom: 20px;
+	cursor: pointer;
+}
+.info {
+	border: 2px solid #663333;
+	border-radius: 0px 0px 18px 0px;
+	width: 300px;
+ 	padding-bottom: 20px;
+ 	background-color: #FCDFC2;
+ }
+
+ .fact {
+ 	font-style: italic;
+ 	padding: 0px 0px 0px 15px;
+ 	color: black;
+ }
+
+.list {
+	color: black;
+	list-style-type: none;
+	position: relative;
+    left: -25px;
+
+}
+
+.date{
+	font-weight: bold;
+
+}
+ .description {
+ 	color: black;
+ 	padding: 0px 15px 0px 15px;
+ }
+
+.source {
+	color: black;
+	padding: 0px 0px 0px 160px;}
